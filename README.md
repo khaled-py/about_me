@@ -1,6 +1,6 @@
 # Personal Info Chatbot
 
-This repository contains a Python-based chatbot that answers questions about me using information stored in a JSON file. The chatbot reads data from `info.json` and responds to user queries interactively.
+This repository contains a Python-based chatbot that answers questions about me using information stored in a JSON file. The chatbot reads data from `khaled.json` and responds to user queries interactively.
 
 ## Features
 
