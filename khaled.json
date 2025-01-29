@@ -1,0 +1,88 @@
+{
+    "name": "Khaled Ahmed Eldiffrawy",
+    "profession": "Artificial Intelligence Engineer",
+    "contact": {
+      "location": "Cairo, Egypt",
+      "phone": "01061184081",
+      "email": "khaled-eldiffawy@outlook.com",
+      "linkedin": "khaledeldiffawy",
+      "github": "khaled-eldiffawy"
+    },
+    "experience": [
+      {
+        "title": "Artificial Intelligence Engineer",
+        "organization": "Egyptian Armed Forces",
+        "duration": "Mar 2024 - Feb 2025",
+        "responsibilities": [
+          "Developed a face recognition model for security applications.",
+          "Implemented real-time object detection using RTSP cameras.",
+          "Built a car plate detection system for automated vehicle identification.",
+          "Familiar with Django framework for web-based AI solutions."
+        ]
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "organization": "Freelance Projects",
+        "duration": "Sep 2022 - Dec 2023",
+        "responsibilities": [
+          "Developed machine learning models for real-life applications.",
+          "Worked on tasks such as predictive modeling, data analysis, and AI integration."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI Psychotherapist",
+        "date": "Jun 2023",
+        "description": "Developed a mobile app using AI and NLP for mental health support.",
+        "tools": ["Python", "TensorFlow", "Flutter", "Firebase", "BERT", "Dialogflow"]
+      },
+      {
+        "name": "Image Enhancement",
+        "date": "Dec 2021",
+        "description": "Built a desktop app for image quality enhancement.",
+        "tools": ["Python", "OpenCV", "Tkinter"]
+      },
+      {
+        "name": "Movies Recommendations",
+        "date": "May 2022",
+        "description": "Designed a ML model for movie recommendations.",
+        "tools": ["Python", "Scikit-learn", "Pandas", "NumPy"]
+      },
+      {
+        "name": "VISA Fraud Detection",
+        "date": "Apr 2022",
+        "description": "Developed a ML model to detect fraudulent transactions.",
+        "tools": ["Python", "Scikit-learn", "Pandas", "NumPy"]
+      },
+      {
+        "name": "Heart Failure Detection",
+        "date": "Jun 2022",
+        "description": "Built a neural network model to predict heart failure.",
+        "tools": ["Python", "TensorFlow", "Keras"]
+      },
+      {
+        "name": "Image Caption",
+        "date": "Jan 2023",
+        "description": "Developed a transformer-based model for image captioning.",
+        "tools": ["Python", "PyTorch", "Transformers"]
+      },
+      {
+        "name": "Object Detection",
+        "date": "Feb 2023",
+        "description": "Built a deep learning model for real-time object detection.",
+        "tools": ["Python", "TensorFlow", "OpenCV"]
+      }
+    ],
+    "skills": {
+      "programming_languages": ["Python", "Dart", "SQL", "JavaScript", "Java", "C++"],
+      "technologies": ["Machine Learning", "Deep Learning", "Flask", "Git", "TensorFlow", "PyTorch", "Docker", "RESTful APIs"],
+      "tools": ["Jupyter Notebook", "VS Code", "Postman", "Linux"]
+    },
+    "strengths": ["Organizing & Clean Code", "Hard-working", "Motivating & Leading", "Teamwork", "Learning Potential"],
+    "certificates": ["Deep Learning Specialization", "Machine Learning (Andrew Ng)", "Git and GitHub"],
+    "languages": {
+      "English": "Very Good (Reading, Writing, Speaking)",
+      "Arabic": "Native"
+    }
+  }
